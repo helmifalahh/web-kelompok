@@ -1,0 +1,19 @@
+body{
+    width: 100%;
+    length: 100%;
+    background-color: rgb(190, 190, 190);
+}
+
+h1{
+    text-align: center;
+    color: rgb(43, 43, 43);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
